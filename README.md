@@ -1,6 +1,6 @@
 # 🚀 Express-Mongo-Auth-Api-Vercel
 
-A `REST API` template that simplifies the process of creating REST APIs using Node.js, Express.js, and MongoDB. With this template, you don't have to write the same repetitive code each time you create a new API. 
+A `REST API` template that simplifies the process of creating REST APIs using Node.js, Express.js, and MongoDB Driver. With this template, you don't have to write the same repetitive code each time you create a new API. 
 
 It includes all the boilerplate code needed for any API and has built-in code for user authentication. Plus, it's set up and ready to deploy on **vercel** right away.
 
